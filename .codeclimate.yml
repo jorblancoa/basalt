@@ -18,4 +18,3 @@ plugins:
       - include/
       max_configs: 42
       inconclusive: false
-      suppressions-list: .cppcheck-suppressions
